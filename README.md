@@ -41,8 +41,7 @@ The analysis was structured across four stages, executed entirely within Excel:
 
 **Data Model**
 
-![Product Return & Inventory Impact Dashboard](Data Model.png)
-
+![Power Pivot Data Model](Data%20Model.png)
 
 ## Key Findings
 
@@ -63,7 +62,6 @@ The analysis was structured across four stages, executed entirely within Excel:
 | `Dashboard.png` | Full dashboard preview image |
 | `Data Model.png` | Data Model relationship diagram (Orders, Returns, Inventory, Supplier_Info) |
 | `DAX Measure.png` | Screenshot of the DAX measures used in the Data Model |
-| `README.md` | This file |
 
 ## Connect
  
