@@ -35,7 +35,8 @@ The analysis was structured across four stages, executed entirely within Excel:
 ## Dashboard Preview
 
 **Product Return & Inventory Impact Dashboard**
- Return-rate hotspots by warehouse and category · Return frequency and inventory exposure by SKU · Key business findings · Return-rate comparison across warehouse-category segments
+
+Return-rate hotspots by warehouse and category · Return frequency and inventory exposure by SKU · Key business findings · Return-rate comparison across warehouse-category segments
 
 ![Product Return & Inventory Impact Dashboard](Dashboard.png)
 
