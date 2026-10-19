@@ -1,16 +1,10 @@
 # Product Return & Inventory Impact Dashboard
 
-An end-to-end Excel data analytics project analyzing product returns and inventory exposure to identify high-return SKUs, return-rate hotspots and stock exposure across tracked products.
-
-**Tools used:** Excel (Power Pivot · Data Modeling · DAX · Pivot Tables · Pivot Charts)
-
-## Data Source
- 
-Simulated retail operations data covering Orders, Returns, Inventory and Supplier Information across multiple product categories and warehouses, built to model a multi-SKU retail return and stock-tracking scenario.
-
 ## About This Project
  
 End-to-end solo project covering data modelling, relationship design, KPI development and dashboard design, executed entirely within Excel's native Data Model and Power Pivot. The dynamic and live-linked Excel dashboard was built for a retail operations/inventory management audience and designed to support decisions on supplier quality, stock replenishment and warehouse-level investigation.
+
+**Tools used:** Excel (Power Pivot · Data Modeling · DAX · Pivot Tables · Pivot Charts)
 
 ## Business Problem
 
@@ -22,6 +16,10 @@ Before high-return products could be prioritized, two underlying questions neede
 2. **Inventory Risk** — Are products with high return activity also carrying significant available stock, creating greater potential inventory risk?
 
 The goal was to identify **high-return SKUs with significant inventory risk** and support more informed product and inventory management decisions.
+
+## Data Source
+ 
+Simulated retail operations data covering Orders, Returns, Inventory and Supplier Information across multiple product categories and warehouses, built to model a multi-SKU retail return and stock-tracking scenario.
 
 ## Approach
  
